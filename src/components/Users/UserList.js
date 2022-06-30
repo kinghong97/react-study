@@ -14,5 +14,4 @@ const UserList = props => {
         </Card>
     )
 }
-
 export default UserList
